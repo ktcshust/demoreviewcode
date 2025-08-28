@@ -7,3 +7,6 @@ class Customer:
 
     def add_booking(self, booking):
         self.bookings.append(booking)
+
+
+###
