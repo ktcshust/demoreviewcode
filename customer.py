@@ -8,12 +8,17 @@ class Customer:
     def add_booking(self, booking):
         self.bookings.append(booking)
 
-        print("abc") 
+# <<<<<<< ktcshust-patch-2
 
-    #########
+#         print("bca")
+# =======
+#         print("bca") 
+
+# >>>>>>> main
+#     #########
 
 
 
-##########
-##########
-###
+# ##########
+# ##########
+# ###
